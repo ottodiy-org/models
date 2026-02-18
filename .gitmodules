@@ -1,3 +1,6 @@
 [submodule "wheels"]
 	path = wheels
 	url = https://github.com/ottodiy-org/wheels.git
+[submodule "ninja"]
+	path = ninja
+	url = https://github.com/ottodiy-org/ninja.git
