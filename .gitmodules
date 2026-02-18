@@ -4,3 +4,18 @@
 [submodule "ninja"]
 	path = ninja
 	url = https://github.com/ottodiy-org/ninja.git
+[submodule "tracks"]
+	path = tracks
+	url = https://github.com/ottodiy-org/tracks.git
+[submodule "quad"]
+	path = quad
+	url = https://github.com/ottodiy-org/quad.git
+[submodule "humanoid"]
+	path = humanoid
+	url = https://github.com/ottodiy-org/humanoid.git
+[submodule "classic"]
+	path = classic
+	url = https://github.com/ottodiy-org/classic.git
+[submodule "biped"]
+	path = biped
+	url = https://github.com/ottodiy-org/biped.git
